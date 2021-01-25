@@ -1,0 +1,137 @@
+[
+{
+  "model": "menu.category",
+  "pk": 1,
+  "fields": {
+    "title": "\u041e\u0434\u0435\u0436\u0434\u0430",
+    "used": false,
+    "promotions": false,
+    "slug": "\u043e\u0434\u0435\u0436\u0434\u0430",
+    "create": "2017-04-03T11:27:56.099Z",
+    "update": "2017-05-03T13:45:46.363Z",
+    "image": "upload/category/\u041e\u0434\u0435\u0436\u0434\u0430/bekleidung.jpg",
+    "width_field": 200,
+    "height_field": 200
+  }
+},
+{
+  "model": "menu.category",
+  "pk": 2,
+  "fields": {
+    "title": "\u041e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u0435",
+    "used": false,
+    "promotions": false,
+    "slug": "\u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u0435",
+    "create": "2017-04-03T11:28:32.952Z",
+    "update": "2017-05-03T13:46:13.768Z",
+    "image": "upload/category/\u041e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u0435/ausruestung.jpg",
+    "width_field": 200,
+    "height_field": 200
+  }
+},
+{
+  "model": "menu.category",
+  "pk": 3,
+  "fields": {
+    "title": "\u0411\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c",
+    "used": false,
+    "promotions": false,
+    "slug": "\u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c",
+    "create": "2017-04-03T11:28:58.888Z",
+    "update": "2017-05-03T13:46:32.320Z",
+    "image": "upload/category/\u0411\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c/security.jpg",
+    "width_field": 200,
+    "height_field": 200
+  }
+},
+{
+  "model": "menu.category",
+  "pk": 4,
+  "fields": {
+    "title": "\u041f\u043e\u0434\u0435\u0440\u0436\u0430\u043d\u043d\u0430\u044f \u043e\u0434\u0435\u0436\u0434\u0430",
+    "used": true,
+    "promotions": false,
+    "slug": "\u043f\u043e\u0434\u0435\u0440\u0436\u0430\u043d\u043d\u0430\u044f-\u043e\u0434\u0435\u0436\u0434\u0430",
+    "create": "2017-04-03T11:29:13.643Z",
+    "update": "2017-05-03T13:46:49.496Z",
+    "image": "upload/category/\u041f\u043e\u0434\u0435\u0440\u0436\u0430\u043d\u043d\u0430\u044f \u043e\u0434\u0435\u0436\u0434\u0430/gebrauchte_bekleidung.jpg",
+    "width_field": 200,
+    "height_field": 200
+  }
+},
+{
+  "model": "menu.category",
+  "pk": 5,
+  "fields": {
+    "title": "\u041e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u0435 \u0431\u0443",
+    "used": true,
+    "promotions": false,
+    "slug": "\u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u0435-\u0431\u0443",
+    "create": "2017-04-03T11:29:25.982Z",
+    "update": "2017-05-15T06:30:08.370Z",
+    "image": "upload/category/\u041e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u0435 \u0431\u0443/gebrauchte_ausruestung.jpg",
+    "width_field": 200,
+    "height_field": 200
+  }
+},
+{
+  "model": "menu.category",
+  "pk": 6,
+  "fields": {
+    "title": "\u0412\u043e\u0441\u0441\u043e\u0437\u0434\u0430\u043d\u0438\u0435",
+    "used": false,
+    "promotions": false,
+    "slug": "\u0432\u043e\u0441\u0441\u043e\u0437\u0434\u0430\u043d\u0438\u0435",
+    "create": "2017-04-03T11:29:37.146Z",
+    "update": "2017-05-03T13:47:37.818Z",
+    "image": "upload/category/\u0412\u043e\u0441\u0441\u043e\u0437\u0434\u0430\u043d\u0438\u0435/reenactment.jpg",
+    "width_field": 200,
+    "height_field": 200
+  }
+},
+{
+  "model": "menu.category",
+  "pk": 7,
+  "fields": {
+    "title": "\u041d\u043e\u0432\u044b\u0435 \u043f\u043e\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u044f",
+    "used": false,
+    "promotions": true,
+    "slug": "\u043d\u043e\u0432\u044b\u0435-\u043f\u043e\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u044f",
+    "create": "2017-04-03T11:35:32.493Z",
+    "update": "2017-04-13T09:51:29.318Z",
+    "image": "",
+    "width_field": 0,
+    "height_field": 0
+  }
+},
+{
+  "model": "menu.category",
+  "pk": 8,
+  "fields": {
+    "title": "\u041d\u043e\u0432\u044b\u0435 \u043f\u043e\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u044f \u0431/\u0443",
+    "used": true,
+    "promotions": true,
+    "slug": "\u043d\u043e\u0432\u044b\u0435-\u043f\u043e\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u044f-\u0431\u0443",
+    "create": "2017-04-03T11:35:57.844Z",
+    "update": "2017-04-13T09:52:12.598Z",
+    "image": "",
+    "width_field": 0,
+    "height_field": 0
+  }
+},
+{
+  "model": "menu.category",
+  "pk": 9,
+  "fields": {
+    "title": "\u041f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u044f",
+    "used": false,
+    "promotions": true,
+    "slug": "\u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u044f",
+    "create": "2017-04-03T11:36:19.355Z",
+    "update": "2017-04-13T09:52:34.507Z",
+    "image": "",
+    "width_field": 0,
+    "height_field": 0
+  }
+}
+]
